@@ -1,5 +1,6 @@
 //add component on main camera "CameraController"
 
+'''
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -66,3 +67,4 @@ public class CameraController : MonoBehaviour
     Gizmos.DrawCube(gizmoPos, new Vector3(1, 1, 1));
   }
 }
+'''
