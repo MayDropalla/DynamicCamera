@@ -64,6 +64,6 @@
       private void OnDrawGizmos()
       {
     Gizmos.DrawCube(gizmoPos, new Vector3(1, 1, 1));
-  }
-}
-'''
+          }
+        }
+        
